@@ -78,7 +78,7 @@ We choose technology based on the problem rather than following whatever framewo
 
 Our work spans:
 
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js`
+`HTML` · `CSS` · `JavaScript` · `Markdown`
 
 Alongside open-source software, AI, modern web infrastructure, and other technologies where they make sense.
 
@@ -102,9 +102,14 @@ The first version is rarely the best version.
 
 ## Connect
 
-**GitHub:** [@aceyash-dev](https://github.com/aceyash-dev)
+**GitHub:** [CEO](https://github.com/aceyash-dev)
+[CCO](https://github.com/acetheticsx)
+
+**Instagram**
+[Official Handle](https://instagram.com/tab.gl)
+[CEO](https://instagram.com/archives.of.yash)
 
 ---
 
-**The Ace Base**  
+© **The Ace Base**  2025
 *Where Better Begins.*
