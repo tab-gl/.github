@@ -1,83 +1,78 @@
-<div align="center"><img src="/icon.png" width="96" height="96" alt="The Ace Base">The Ace Base
+<div align="center">
 
-Where Better Begins.
+<img src="/icon.png" width="88" alt="The Ace Base">
 
-<br>Independent technology. Thoughtful design. Built with intent.
+# The Ace Base
 
-</div>---
+### Where Better Begins.
 
-About
+**Building what comes next.**
 
-The Ace Base is an independent technology organization focused on building software, digital experiences, and tools with purpose.
-
-We believe better products come from better thinking, careful design, and attention to the details that others tend to overlook.
+</div>
 
 ---
 
-Philosophy
+## The Ace Base
 
-«Where Better Begins.»
+The Ace Base is an independent technology studio.
 
-We build around a few simple principles:
+We build software, explore ideas, and create digital experiences with an obsession for making things better.
 
-- Intentional — Every decision should have a reason.
-- Simple — Complexity should earn its place.
-- Refined — Details matter.
-- Independent — Ideas come first, trends second.
-- Human — Technology should remain useful, clear, and accessible.
+Not louder.  
+Not bigger.  
+**Better.**
 
 ---
 
-What We Build
+## What We Believe
 
-The Ace Base explores ideas across:
+**Good technology should feel inevitable.**
 
-- 🌐 Web & Software
-- 🎨 Design & Interfaces
-- 🤖 Artificial Intelligence
-- 🛠️ Developer Tools
-- 🔬 Experimental Technology
+Simple where it can be.  
+Powerful where it needs to be.  
+Beautiful without trying too hard.
 
-Our projects evolve over time. Some become products, some become experiments, and some are quietly retired. Humanity has apparently decided software needs life cycles too.
+We care about the details, the systems behind the interface, and the small decisions that turn something functional into something worth using.
 
 ---
 
-Technology
+## Our Work
 
-We work across modern web and software technologies, choosing tools based on the problem rather than the hype.
+We work across software, the web, artificial intelligence, design, and whatever interesting problem happens to be worth solving.
 
-Common technologies include:
+Some things become products.
 
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Node.js
+Some become experiments.
 
-Alongside open-source technologies, AI systems, and modern web infrastructure.
+Some teach us what not to build.
 
----
-
-Approach
-
-Build with purpose.
-
-Not everything needs to be built.
-
-Design with restraint.
-
-Good design does not need to shout.
-
-Engineer for the long term.
-
-Readable, maintainable, performant software wins eventually.
-
-Keep exploring.
-
-The best ideas rarely arrive fully formed.
+That's part of it.
 
 ---
 
-<div align="center"><img src="/icon.png" width="40" height="40" alt="The Ace Base"><br><br>
+## Principles
 
-The Ace Base
+**01 — Make it better.**  
+Every iteration should leave something improved.
 
-Where Better Begins.
+**02 — Keep it simple.**  
+Complexity is not a feature.
+
+**03 — Sweat the details.**  
+The difference is usually in the last 10%.
+
+**04 — Build with purpose.**  
+Technology for technology's sake is just expensive decoration.
+
+**05 — Stay curious.**  
+The next idea is usually hiding somewhere inconvenient.
+
+---
+
+<div align="center">
+
+<img src="/icon.png" width="32" alt="The Ace Base">
+
+### Where Better Begins.
 
 </div>
