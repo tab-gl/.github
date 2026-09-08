@@ -1,8 +1,17 @@
+<table>
+<tr>
+<td valign="middle">
 <img src="../icon.png" width="72" alt="The Ace Base">
+</td>
+<td valign="middle">
 
 # The Ace Base
 
 ### Where Better Begins.
+
+</td>
+</tr>
+</table>
 
 **Building what comes next.**
 
@@ -96,8 +105,6 @@ The first version is rarely the best version.
 **GitHub:** [@aceyash-dev](https://github.com/aceyash-dev)
 
 ---
-
-<img src="../icon.png" width="32" alt="The Ace Base">
 
 **The Ace Base**  
 *Where Better Begins.*
