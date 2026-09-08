@@ -1,8 +1,7 @@
 <table>
 <tr>
 <td valign="middle">
-<img src="../icon.png" width="72" alt="The Ace Base">
-</td>
+<img src="https://raw.githubusercontent.com/tab-gl/.github/main/icon.png" width="72" alt="The Ace Base"></td>
 <td valign="middle">
 
 # The Ace Base
