@@ -1,4 +1,4 @@
-<img src="icon.png" width="72" alt="The Ace Base">
+<img src="../icon.png" width="72" alt="The Ace Base">
 
 # The Ace Base
 
@@ -10,68 +10,94 @@
 
 ## The Ace Base
 
-The Ace Base is an independent technology house founded by [@aceyash-dev](https://github.com/aceyash-dev).
+The Ace Base is an independent technology house focused on building software, digital experiences, and ideas worth exploring.
 
-We build software, explore ideas, and create digital experiences with a focus on thoughtful design, strong engineering, and meaningful details.
+We care about thoughtful engineering, distinctive design, and the details that make technology feel better to use.
 
 ---
 
 ## What We Do
 
-- **Software** — Focused products and useful tools.
-- **Web** — Fast, responsive, and accessible experiences.
-- **Design** — Distinctive interfaces and visual systems.
-- **AI** — Exploring practical applications of emerging technology.
-- **Experiments** — Testing ideas that might become something more.
+- **Software** — Building useful, focused digital products.
+- **Web** — Creating fast, responsive, accessible experiences.
+- **Design** — Crafting interfaces with clarity and character.
+- **Artificial Intelligence** — Exploring practical applications of emerging technology.
+- **Experiments** — Turning interesting ideas into things that can actually be used.
 
 ---
 
 ## Our Philosophy
 
-> **Better is the baseline.**
+> **Where Better Begins.**
 
-We believe good technology should be:
+We believe better technology starts with better thinking.
 
-- **Intentional** — Every decision has a purpose.
-- **Simple** — Complexity should earn its place.
-- **Refined** — Details make the difference.
-- **Useful** — Technology should solve real problems.
-- **Curious** — There is always something better to discover.
+**01 — Intentional**  
+Every decision should have a reason.
+
+**02 — Simple**  
+Complexity should earn its place.
+
+**03 — Refined**  
+Small details create meaningful differences.
+
+**04 — Useful**  
+Technology should solve problems, not create them.
+
+**05 — Curious**  
+There is always something worth exploring.
 
 ---
 
-## The Approach
+## How We Build
 
-We don't build for the sake of having something to ship.
+We take ideas seriously, but not ourselves.
 
-We take ideas, refine them, build them, break them, and build them better.
+We explore, prototype, refine, ship, and iterate.
 
-Some become products.  
+Some ideas become products.  
 Some become experiments.  
-Some teach us what not to build.
+Some become lessons.
 
-That's part of the process.
+All of them contribute to building something better.
 
 ---
 
 ## Technology
 
-We work across modern technologies depending on the problem at hand.
+We choose technology based on the problem rather than following whatever framework is currently having its fifteen minutes of fame.
+
+Our work spans:
 
 `HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js` · `Node.js`
 
-Alongside open-source software, artificial intelligence, and modern web infrastructure.
+Alongside open-source software, AI, modern web infrastructure, and other technologies where they make sense.
 
 ---
 
-## Links
+## Principles
 
-🌐 **Website:** [ace-base.cc](https://ace-base.cc)  
-💻 **GitHub:** [@aceyash-dev](https://github.com/aceyash-dev)  
-✉️ **Email:** hello@ace-base.cc
+### Build with purpose.
+Not everything needs to exist.
+
+### Design with restraint.
+Good design does not need to shout.
+
+### Engineer for the long term.
+Readable and maintainable software matters.
+
+### Keep improving.
+The first version is rarely the best version.
 
 ---
 
-### The Ace Base
+## Connect
 
-**Where Better Begins.**
+**GitHub:** [@aceyash-dev](https://github.com/aceyash-dev)
+
+---
+
+<img src="../icon.png" width="32" alt="The Ace Base">
+
+**The Ace Base**  
+*Where Better Begins.*
