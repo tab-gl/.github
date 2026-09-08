@@ -102,14 +102,14 @@ The first version is rarely the best version.
 
 ## Connect
 
-**GitHub:** [CEO](https://github.com/aceyash-dev)
-[CCO](https://github.com/acetheticsx)
+**GitHub:**<br> [CEO](https://github.com/aceyash-dev)<br>
+[CCO](https://github.com/acetheticsx)<br>
 
-**Instagram**
-[Official Handle](https://instagram.com/tab.gl)
-[CEO](https://instagram.com/archives.of.yash)
+**Instagram:**<br>
+[Official Handle](https://instagram.com/tab.gl)<br>
+[CEO](https://instagram.com/archives.of.yash)<br>
 
 ---
 
-© **The Ace Base**  2025
+© **The Ace Base**  2025<br>
 *Where Better Begins.*
